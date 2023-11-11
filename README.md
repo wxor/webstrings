@@ -37,5 +37,5 @@ Currently implemented strings:
 
 ### Notes
 
+Tested on Python 3.11
 Be careful with the threads
-
