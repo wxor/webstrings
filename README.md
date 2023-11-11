@@ -3,6 +3,12 @@ String enumeration tool for webpages.
 
 This tool takes an output file from feroxbuster and searches for potentially sensitive strings in found files.
 
+Files should be formatted as follows:
+
+```
+200      GET        6l       15w      230c http://192.168.110.10/Admin/web.config
+```
+
 Currently implemented strings:
 
         # Sensitive strings
